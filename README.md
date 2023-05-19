@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://m.media-amazon.com/images/I/41Q3-9-UpOL.jpg" alt="Image 1" width="400" style="margin-right: 20px;">
-  <img src="https://i.ytimg.com/an/meNlOrdQJFo/4554850009940132115_mq.jpg?v=62f024f0" alt="Image 2" width="400">
+  <img src="https://i.ytimg.com/an/meNlOrdQJFo/4554850009940132115_mq.jpg?v=62f024f0" alt="Image 2" width="200" height="200">
 </p>
 
 
