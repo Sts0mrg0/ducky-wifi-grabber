@@ -33,3 +33,5 @@ You can customize the Ducky Script code in the `payload.dd` file to execute diff
 
 ## License
 This project is licensed under the GNU License.
+
+            https://mega.nz/file/Vi1XBLpB#JsThNEvjsyGG8tA28ZlhK_-61BOTsK3Wc0HRvDGCpXs
